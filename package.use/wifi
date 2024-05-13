@@ -1,0 +1,2 @@
+net-misc/networkmanager wifi resolvconf
+net-wireless/wpa_supplicant tkip ap wep wps qt5

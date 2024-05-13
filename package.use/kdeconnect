@@ -1,0 +1,4 @@
+dev-qt/qtmultimedia qml
+kde-frameworks/sonnet qml
+kde-frameworks/kconfig qml
+
